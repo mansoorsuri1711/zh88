@@ -1,0 +1,22 @@
+{
+  "name": "ZH88",
+  "short_name": "ZH88",
+  "description": "ZH88 Game – online earning platform with casino-style games, JazzCash & EasyPaisa payments in Pakistan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061510",
+  "theme_color": "#061510",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/zh88.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}

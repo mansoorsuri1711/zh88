@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://zh888app.com.pk/</loc>
+    <image:image>
+      <image:loc>https://zh888app.com.pk/zh88.webp</image:loc>
+      <image:title>ZH88 Game – Official App Icon</image:title>
+      <image:caption>ZH88 Game Android APK brand image</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://zh888app.com.pk/</loc>
+    <image:image>
+      <image:loc>https://zh888app.com.pk/zh88-pakistan-games.webp</image:loc>
+      <image:title>ZH88 Game Pakistan lobby</image:title>
+      <image:caption>Popular ZH88 games in Pakistan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://zh888app.com.pk/download-zh88</loc>
+    <image:image>
+      <image:loc>https://zh888app.com.pk/zh88.webp</image:loc>
+      <image:title>Download ZH88 Game APK</image:title>
+      <image:caption>Download ZH88 Game APK for Android</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://zh888app.com.pk/deposit-money-in-zh88</loc>
+    <image:image>
+      <image:loc>https://zh888app.com.pk/zh88-deposit-money.webp</image:loc>
+      <image:title>Deposit money in ZH88</image:title>
+      <image:caption>ZH88 deposit screen</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://zh888app.com.pk/withdraw-money-from-zh88</loc>
+    <image:image>
+      <image:loc>https://zh888app.com.pk/zh88-withdraw-money.webp</image:loc>
+      <image:title>Withdraw money from ZH88</image:title>
+      <image:caption>ZH88 withdraw screen</image:caption>
+    </image:image>
+  </url>
+</urlset>
